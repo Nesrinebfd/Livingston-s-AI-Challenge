@@ -23,7 +23,7 @@ This project presents comprehensive research on AI adoption in higher education 
 ## Folder Structure
 
 ```
-ai-college-adoption-2025/
+Livingston-s-AI-Challenge/
 │
 ├── index.html                 # Main interactive report (45KB)
 │                             # - 5 interactive charts
